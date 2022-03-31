@@ -1,0 +1,15 @@
+#schedule-page
+{
+    width:48%;
+    height:auto;
+    /* border: 2px solid green;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    margin: auto;
+}
+.schedule-image
+{
+    border-radius: 20px;
+    margin-top: 10px;
+}
