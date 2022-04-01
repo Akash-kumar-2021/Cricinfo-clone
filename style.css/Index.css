@@ -42,21 +42,21 @@
 #inside-upper-navbar > .score-card
 {
     display: flex;
-    width: 100%;
+    width: 140%;
     height: 160px;
     /* border: 3px solid black; */
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
 }
 .score-card > div{
-    width: 25%;
-    height: 140px;
+    width: 29%;
+    height: 135px;
     /* border: 2px solid pink; */
     padding: 8px;
     margin-left: 10px;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: white;
-    margin-top: 10px;
+
 }
 .match-text
 {
@@ -147,7 +147,7 @@ button:hover
 .inside-lower-navbar
 {
     display: flex;
-    width: 70%;
+    width: 85%;
     height: 48px;
     /* border: 2px solid black; */
     margin: auto;
